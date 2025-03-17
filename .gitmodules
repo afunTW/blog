@@ -1,0 +1,3 @@
+[submodule "themes/custom"]
+	path = themes/custom
+	url = https://github.com/afunTW/hexo-theme-next.git
