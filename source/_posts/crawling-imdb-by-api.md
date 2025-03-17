@@ -1,7 +1,7 @@
 ---
 title: Crawling IMDB by API
 date: 2018-01-22 00:00:00
-categories: Crawling
+categories: Data Engineering
 tags: [python, imdb]
 ---
 

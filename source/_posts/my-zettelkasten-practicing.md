@@ -2,10 +2,8 @@
 title: 我所實踐的 Zettelkasten 卡片式管理法
 date: 2021-07-10 17:50:12
 updated: 2021-07-10 17:50:12
-categories: Knowledge Graph
-tags:
-	- zettelkasten
-cover:
+categories: Others
+tags: [zettelkasten]
 ---
 > 介紹我如何透過 Obsidian 與其他工具實踐與練習卡片式管理法
 <!-- more -->

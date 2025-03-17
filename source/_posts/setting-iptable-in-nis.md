@@ -2,7 +2,7 @@
 title: Setting iptable in NIS
 date: 2016-12-26 00:00:00
 categories: DevOps
-tags: [ubuntu, server, nis, iptable]
+tags: [ubuntu, nis, iptable]
 ---
 
 > 紀錄上古時代的 NIS 使用紀錄

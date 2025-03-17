@@ -2,12 +2,8 @@
 title: MAB - UCB <> TS 基本概念
 date: 2021-02-08 14:01:05
 updated: 2021-02-08 14:01:05
-categories: Machine Learning
-tags:
-	- exploitation
-	- exploration
-	- recommendation
-cover:
+categories: AI
+tags: [recommendation-system]
 mathjax: enable
 ---
 

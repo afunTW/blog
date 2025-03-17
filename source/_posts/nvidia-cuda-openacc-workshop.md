@@ -2,8 +2,8 @@
 title: NVIDIA GPU CUDA/OpenACC WorkShop 紀錄
 date: 2019-04-10 00:00:00
 updated: 2020-12-09 01:44:48
-categories: GPU
-tags: [cuda, openacc]
+categories: Others
+tags: [nvidia, cuda, openacc]
 ---
 
 >   參加 NVIDIA 舉辦的 Workshop 紀錄

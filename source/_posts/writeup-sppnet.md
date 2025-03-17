@@ -2,7 +2,7 @@
 title: Paper Study - SPPNet
 date: 2018-02-16 00:00:00
 categories: AI
-tags: [deep learning, computer vision, paper, sppnet]
+tags: [sppnet]
 ---
 
 > arxiv 論文: [https://arxiv.org/abs/1406.4729](https://arxiv.org/abs/1406.4729)

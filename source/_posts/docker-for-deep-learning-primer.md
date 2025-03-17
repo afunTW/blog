@@ -3,7 +3,7 @@ title: Docker for deep learning primer
 date: 2018-09-05 13:35:25
 updated: 2020-12-09 13:35:25
 categories: Data Engineering
-tags: [docker, deep learning]
+tags: [docker]
 ---
 >   在深度學習專案中的第一次導入 Docker
 >   

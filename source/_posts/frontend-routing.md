@@ -2,7 +2,7 @@
 title: Learning F2E - Routing
 date: 2016-11-28 00:00:00
 categories: Frontend
-tags: [frontend, routing]
+tags: [routing]
 ---
 
 > 紀錄學習 F2E 的瞬間

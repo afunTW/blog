@@ -3,7 +3,7 @@ title: Ubuntu 16.04 安裝 CUDA + cuDNN + nvidia driver 的踩雷心得 (非安�
 date: 2018-05-24 13:57:12
 updated: 2020-12-09 13:57:12
 categories: Data Engineering
-tags: [ubuntu, cuda, cudnn, nvidia]
+tags: [ubuntu, nvidia, cuda, cudnn]
 ---
 >   網路上有些人說 nvidia driver 安裝在 Ubuntu 上本來就很多雷，也有人說用 docker 裝的話一切都很方便，而我說你沒踩到雷只是因為你不是在擦屁股的那一個
 

@@ -2,7 +2,7 @@
 title: 中研院研發替代役的新手紀錄
 date: 2016-11-18 00:00:00
 categories: Life
-tags: [academia sinica, rdss]
+tags: []
 ---
 
 >  紀錄剛開始在中研院當研發替代役的心得
