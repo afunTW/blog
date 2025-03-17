@@ -3,17 +3,18 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: afunTW's blog
+title: afun's blog
 subtitle: 知世故而不世故，才是最善良的成熟
 description: 'Valar Morghulis'
 keywords: blog
-author: afunTW
+author: afun
 language: zh-tw
 timezone: Asia/Taipei
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: https://afuntw.github.io/blog
+root: /blog/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -41,6 +42,9 @@ external_link:
 filename_case: 1
 render_drafts: false
 post_asset_folder: true
+marked:
+  prependRoot: true
+  postAsset: true
 relative_link: false
 future: false
 syntax_highlighter: highlight.js
@@ -108,7 +112,6 @@ theme_config:
     medium: /images/favicon.ico
   creative_commons:
     sidebar: true
-  darkmode: true
   # Menu
   menu:
     home: / || fa fa-home
@@ -173,4 +176,4 @@ deploy:
   type: git
   repo:
       github: git@github.com:afunTW/afunTW.github.io.git
-  branch: master
+  branch: main
