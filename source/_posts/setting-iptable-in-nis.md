@@ -2,7 +2,7 @@
 title: Setting iptable in NIS
 date: 2016-12-26 00:00:00
 categories: DevOps
-tags: [ubuntu, server, nis, iptable]
+tags: [ubuntu, nis, iptable]
 ---
 
 > 紀錄上古時代的 NIS 使用紀錄
@@ -104,3 +104,4 @@ $ sudo service ypbind restart
 * [鳥哥的 Linux 私房菜](http://linux.vbird.org/linux_server/0430nis.php)
 * [Ubuntu wiki](https://help.ubuntu.com/community/SettingUpNISHowTo)
 * [Linux 設定 iptables](http://blog.pulipuli.info/2011/07/linuxiptables.html)
+ 

@@ -2,7 +2,7 @@
 title: Learning F2E - Routing
 date: 2016-11-28 00:00:00
 categories: Frontend
-tags: [frontend, routing]
+tags: [routing]
 ---
 
 > 紀錄學習 F2E 的瞬間
@@ -113,3 +113,4 @@ const app = new Vue({
 最近剛完成的就是我覺得程式碼很髒很醜的網頁，HTML 幾乎全部手刻，Javascript 幾乎都是用 jQuery 在處理使用者事件而已，需要拿資料的時候再送 ajax 到 php，然後用 PDO 的傳統寫法跟 MySQL 拿資料
 
 我知道這種寫法很蠢，但也知道其他的技術就是為了解決這些蠢事才衍生出來的，希望以後 Moli blog 也可以多介紹這部份，就算不是講技術，至少讓新手有關鍵字可以去學，然後大概知道 Modern Web design 會遇到的問題跟相關的解決方案有哪些選擇
+ 

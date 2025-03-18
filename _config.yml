@@ -93,8 +93,8 @@ pagination_dir: page
 
 # Include / Exclude file(s)
 ## include:/exclude: options only apply to the 'source/' folder
-include:
-exclude:
+include: []  # Changed to empty array
+exclude: []  # Changed to empty array
 ignore:
 
 # Extensions
@@ -115,9 +115,9 @@ theme_config:
   # Menu
   menu:
     home: / || fa fa-home
-    categories: /categories/ || fa fa-th
     archives: /archives/ || fa fa-archive
-    tags: /tags/ || fa fa-tags
+    categories: /categories/ || fa fa-th
+    Category Timeline: /category-timeline/ || fa fa-th
   menu_settings:
     badges: true
   # Sidebar Settings
@@ -132,6 +132,7 @@ theme_config:
     transition: true
   toc:
     wrap: true
+  read_more_btn: true
   # Post Setting
   tag_icon: true
   related_posts:

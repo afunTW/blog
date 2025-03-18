@@ -2,7 +2,7 @@
 title: Paper Study - RCNN
 date: 2018-02-14 00:00:00
 categories: AI
-tags: [deep learning, computer vision, paper, rcnn]
+tags: [rcnn]
 ---
 
 > arxiv 論文: [https://arxiv.org/abs/1311.2524](https://arxiv.org/abs/1311.2524)

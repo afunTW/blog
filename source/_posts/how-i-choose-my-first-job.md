@@ -3,7 +3,7 @@ title: 第一份工作的抉擇
 date: 2019-09-29 01:33:05
 updated: 2020-12-09 01:33:05
 categories: Life
-tags: job
+tags: []
 ---
 
 > 在人工智慧與資料科學之間的選擇？

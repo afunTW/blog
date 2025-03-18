@@ -3,7 +3,7 @@ title: Data Warehouse Overview - System Architecture
 date: 2021-01-09 15:52:28
 updated: 2021-01-09 15:52:28
 categories: Data Engineering
-tags: [warehouse, infrastructure]
+tags: [data-warehouse]
 ---
 
 > 基本介紹 Data Warehouse 的設計目的與系統架構

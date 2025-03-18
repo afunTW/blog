@@ -2,10 +2,8 @@
 title: 我所理解的 Zettelkasten 卡片式管理法
 date: 2021-06-20 17:23:00
 updated: 2021-06-20 17:23:00
-categories: Knowledge Graph
-tags:
-    - zettelkasten
-cover:
+categories: Others
+tags: [zettelkasten]
 ---
 
 > 介紹什麼是卡片式管理法, 解決過去我所遭遇到作筆記的疑惑
